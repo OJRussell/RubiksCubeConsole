@@ -1,0 +1,5 @@
+/Users/oliverrussell/Desktop/RubiksCubeConsole/RubiksCubeConsole/obj/Debug/net6.0/RubiksCubeConsole.csproj.AssemblyReference.cache
+/Users/oliverrussell/Desktop/RubiksCubeConsole/RubiksCubeConsole/obj/Debug/net6.0/RubiksCubeConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oliverrussell/Desktop/RubiksCubeConsole/RubiksCubeConsole/obj/Debug/net6.0/RubiksCubeConsole.AssemblyInfoInputs.cache
+/Users/oliverrussell/Desktop/RubiksCubeConsole/RubiksCubeConsole/obj/Debug/net6.0/RubiksCubeConsole.AssemblyInfo.cs
+/Users/oliverrussell/Desktop/RubiksCubeConsole/RubiksCubeConsole/obj/Debug/net6.0/RubiksCubeConsole.csproj.CoreCompileInputs.cache
