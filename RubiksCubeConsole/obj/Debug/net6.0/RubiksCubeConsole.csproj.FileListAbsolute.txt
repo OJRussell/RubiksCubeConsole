@@ -1,0 +1,15 @@
+/Users/oliverrussell/Desktop/RubiksCubeConsole/RubiksCubeConsole/obj/Debug/net6.0/RubiksCubeConsole.csproj.AssemblyReference.cache
+/Users/oliverrussell/Desktop/RubiksCubeConsole/RubiksCubeConsole/obj/Debug/net6.0/RubiksCubeConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oliverrussell/Desktop/RubiksCubeConsole/RubiksCubeConsole/obj/Debug/net6.0/RubiksCubeConsole.AssemblyInfoInputs.cache
+/Users/oliverrussell/Desktop/RubiksCubeConsole/RubiksCubeConsole/obj/Debug/net6.0/RubiksCubeConsole.AssemblyInfo.cs
+/Users/oliverrussell/Desktop/RubiksCubeConsole/RubiksCubeConsole/obj/Debug/net6.0/RubiksCubeConsole.csproj.CoreCompileInputs.cache
+/Users/oliverrussell/Desktop/RubiksCubeConsole/RubiksCubeConsole/bin/Debug/net6.0/RubiksCubeConsole
+/Users/oliverrussell/Desktop/RubiksCubeConsole/RubiksCubeConsole/bin/Debug/net6.0/RubiksCubeConsole.deps.json
+/Users/oliverrussell/Desktop/RubiksCubeConsole/RubiksCubeConsole/bin/Debug/net6.0/RubiksCubeConsole.runtimeconfig.json
+/Users/oliverrussell/Desktop/RubiksCubeConsole/RubiksCubeConsole/bin/Debug/net6.0/RubiksCubeConsole.dll
+/Users/oliverrussell/Desktop/RubiksCubeConsole/RubiksCubeConsole/bin/Debug/net6.0/RubiksCubeConsole.pdb
+/Users/oliverrussell/Desktop/RubiksCubeConsole/RubiksCubeConsole/obj/Debug/net6.0/RubiksCubeConsole.dll
+/Users/oliverrussell/Desktop/RubiksCubeConsole/RubiksCubeConsole/obj/Debug/net6.0/refint/RubiksCubeConsole.dll
+/Users/oliverrussell/Desktop/RubiksCubeConsole/RubiksCubeConsole/obj/Debug/net6.0/RubiksCubeConsole.pdb
+/Users/oliverrussell/Desktop/RubiksCubeConsole/RubiksCubeConsole/obj/Debug/net6.0/RubiksCubeConsole.genruntimeconfig.cache
+/Users/oliverrussell/Desktop/RubiksCubeConsole/RubiksCubeConsole/obj/Debug/net6.0/ref/RubiksCubeConsole.dll
